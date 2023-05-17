@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: smooth;
+    margin:0;
+    padding:0;
+}
+  
+body {
+    font-family: "Avenir Next";
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigasi */
+.navbar {
+    background-color: rgb(155, 177, 169);
+    height: 80px;
+}
+
+.navbar-brand {
+    font-style: italic;
+    font-size: 30px;
+}
